@@ -1,4 +1,4 @@
-module binance
+module github.com/alikarimi999/binance
 
 go 1.19
 
