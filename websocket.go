@@ -1,4 +1,4 @@
-package binance_connector
+package binance
 
 import (
 	"net/http"
