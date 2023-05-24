@@ -14,7 +14,7 @@ import (
 	"os"
 	"time"
 
-	"binance/handlers"
+	"github.com/alikarimi999/binance/handlers"
 
 	"github.com/bitly/go-simplejson"
 )
